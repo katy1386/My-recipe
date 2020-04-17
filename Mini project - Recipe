@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Healthy Recipes</title>
+</head>
+<body>
+  <h1> Avocado Tuna Salad Recipe </h1>
+  <p> <em> This avocado tuna salad uses creamy avocado instead  of mayo for a fresh and 
+    easy twist of the classic. 
+    Red Onion and celery add some crunch, while lemon juice give it some zing.
+      Is quic to make and very healthy 😋</em> </p> 
+  <h2> Ingredients</h2>
+  <ul>
+    <!-- Listing the ingredients for the tuna salad -->
+    <li> 1 tuna can</li>
+    <li> 1/2 ripe avocado, roughly chopped</li>
+    <li> 2 eggs </li>
+    <li> 2 tablespoons yogurt </li>
+    <li> 1/2 cup minced celery </li>
+    <li> 1/4 cup minced red onion </li>
+    <li> 1 tablespoon extra virgin olive oil </li>
+    <li> 2 teapsoons lemon juice </li>
+    <li> 1 teaspoon lemon zest </li>
+    <li> 2 tablespoons chopped fresh cilantro or parsley</li>
+    <li> 1/2 teaspoonkosher salt </li>
+    <li> freshly ground black pepper </li>
+  </ul>
+    <img src="ingredients2.jpg" alt = "Ingredients">
+  <h2> Steps </h2>
+  <!-- explaining the stepts in making this yummi food -->
+    <ol>
+      <li> boil and chopp the eggs 🙂 </li>
+      <li> mix all the ingredients together 🙂 </li>
+      <li> Finish and serve: Add more oil or salt and pepper if necessary,
+        serve on your favorite sandwich bread or toast. 😁 </li>
+    </ol>
+    <a href="https://www.youtube.com/watch?v=BMYzSFeJHxc"><img src = "salad.jpg" alt="Youtube recipes!"></a>
+    <p>It really is as good as it looks. Avocado and tuna are a winning combination.
+    So much juiciness and flavour!!! Make this for your next party and your guests will rave about your avocado tuna salad. I hope you love this so much that it becomes a new favorite for you.</p>
+    
+  <p><strong>Enjoy 😉!</strong></p>
+    <p> Here are top 5 recipes for Avocado Tuna salad</p>
+    <ul>
+        <!-- creating the link for other recipies-->
+        <li><a href="https://www.youtube.com/watch?v=-rNCqBfBVno">Recipe 1</a></li>
+        <li><a href ="https://gimmedelicious.com/avocado-tuna-salad/">Recipe 2</a></li>
+        <li><a href= "https://www.carbmanager.com/recipe/keto-avocado-tuna-salad">Recipe 3 - Keto</a></li>
+        <li><a href="https://greenhealthycooking.com/10-minute-avocado-tuna-salad/">Recipe 3</a></li>
+        <li><a href="https://avocadopesto.com/healthy-tuna-avocado-egg-salad/">Recipe 5</a></li>
+    </ul>
+    <p>If you have any question, feel free to <a href="mailto:catalyna.radu@yahoo.com">email me</a></p>
+</body>
+</html>
